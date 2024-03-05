@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlagydms2&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner=true&repo=rlagydms2/Withbuddy_project.git)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner=true&repo=Withbuddy_project)](https://github.com/anuraghazra/github-readme-stats)
 
 🛠️ Tech Stacks<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
