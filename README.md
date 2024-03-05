@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=CCCCFF&height=95&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=CCCCFF&height=95&section=header" />
 
 저는 끊임없이 앞으로 나아가고자 도전하는 개발자입니다.
 
