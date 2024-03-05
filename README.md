@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:EEFF00,100:a82da8&height=150&text=Pick%me!&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:FFFFCC,100:CCCCFF&height=150&text=Pick%me!&desc=성장하는 개발자&descAlign=60&descAlignY=50&section=header" />
 
 저는 끊임없이 앞으로 나아가고자 도전하는 개발자입니다.
 
