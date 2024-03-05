@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:FFFFCC,100:CCCCFF&height=150&text=Pick%me!&section=header" align="center"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:FFFFCC,100:CCCCFF&height=150&text=Pick%me!&section=header"/>
 
 <h2 align="center">👉HYO-EUN👈</h2>
 
 
-<div align="center">
 🛠️ Tech Stacks<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagydms2&hide=stars,issues&theme=flag-india&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
