@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCFFFF&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFCC&height=150&section=header" />
 
 저는 끊임없이 앞으로 나아가고자 도전하는 개발자입니다.
 
@@ -14,4 +14,4 @@
  
 
 🏅 Stats<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D9ESFF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFCC&height=150&section=footer" />
