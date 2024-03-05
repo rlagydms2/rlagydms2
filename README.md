@@ -26,7 +26,3 @@
     
 🧑‍💻 Contact me
 
- 
-
-🏅 Stats<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=95&section=footer" />
