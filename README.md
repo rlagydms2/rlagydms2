@@ -2,13 +2,14 @@
 
 <h2 align="center">👉HYO-EUN👈</h2>
 
-저는 끊임없이 앞으로 나아가고자 도전하는 개발자입니다.
+
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagydms2&hide=stars,issues&theme=flag-india&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlagydms2&layout=compact)
 
-<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rlagydms2&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
     
 🛠️ Tech Stacks<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
