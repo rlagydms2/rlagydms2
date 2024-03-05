@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagydms2&hide=stars,issues&theme=flag-india&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/langs/?username=rlagydms2&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlagydms2&layout=compact)
 
 <div align="center">
     
