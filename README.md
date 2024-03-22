@@ -40,6 +40,10 @@
         <div align= "center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=rlagydms2&hide=stars,issues&theme=flag-india&count_private=true&show_icons=true&hide_rank=true&title_color=ff9500&text_color=0769AD"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlagydms2&layout=compact"
+            ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlagydms2)](https://github.com/anuraghazra/github-readme-stats)
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlagydms2)](https://github.com/anuraghazra/github-readme-stats)
            /> </div> 
+
+
     </div>
     
