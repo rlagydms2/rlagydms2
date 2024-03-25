@@ -6,7 +6,7 @@
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨실전에서 빛나는 코드✨ </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨팀과 함께면 더 빛나는 역량✨ </h2>  
     <div style="font-family: 'fantasy'; font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         저는 새로운 기술이나 개념을 습득하고, 실제 프로젝트나 과제에 적용할 때의 성취감이 큰 개발자입니다.<br/>
         학습과 발전을 통해 새로운 도전을 하고, 그 경험들을 통해 더 나은 개발자가 되고자 노력하고 있습니다. <br/>
